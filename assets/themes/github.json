@@ -1,0 +1,14 @@
+{
+  "name": "GitHub",
+  "scaffoldBackgroundColor": "#ffffff",
+  "appBarBackgroundColor": "#f6f8fa",
+  "textColor": "#24292e",
+  "accentColor": "#0366d6",
+  "editorBackgroundColor": "#ffffff",
+  "editorTextColor": "#24292e",
+  "previewBackgroundColor": "#ffffff",
+  "previewTextColor": "#24292e",
+  "sidebarBackgroundColor": "#f6f8fa",
+  "sidebarTextColor": "#24292e",
+  "sidebarHighlightColor": "#e1e4e8"
+}

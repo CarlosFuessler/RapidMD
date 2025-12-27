@@ -1,0 +1,14 @@
+{
+  "name": "Monokai",
+  "scaffoldBackgroundColor": "#272822",
+  "appBarBackgroundColor": "#272822",
+  "textColor": "#f8f8f2",
+  "accentColor": "#ae81ff",
+  "editorBackgroundColor": "#272822",
+  "editorTextColor": "#f8f8f2",
+  "previewBackgroundColor": "#272822",
+  "previewTextColor": "#f8f8f2",
+  "sidebarBackgroundColor": "#272822",
+  "sidebarTextColor": "#f8f8f2",
+  "sidebarHighlightColor": "#75715e"
+}

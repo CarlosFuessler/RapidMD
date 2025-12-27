@@ -1,0 +1,14 @@
+{
+  "name": "Light",
+  "scaffoldBackgroundColor": "#FFFFFF",
+  "appBarBackgroundColor": "#F0F0F0",
+  "textColor": "#000000",
+  "accentColor": "#007AFF",
+  "editorBackgroundColor": "#FDFDFD",
+  "editorTextColor": "#000000",
+  "previewBackgroundColor": "#FFFFFF",
+  "previewTextColor": "#000000",
+  "sidebarBackgroundColor": "#F5F5F5",
+  "sidebarTextColor": "#000000",
+  "sidebarHighlightColor": "#E0E0E0"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Dracula",
+  "scaffoldBackgroundColor": "#282a36",
+  "appBarBackgroundColor": "#44475a",
+  "textColor": "#f8f8f2",
+  "accentColor": "#bd93f9",
+  "editorBackgroundColor": "#282a36",
+  "editorTextColor": "#f8f8f2",
+  "previewBackgroundColor": "#282a36",
+  "previewTextColor": "#f8f8f2",
+  "sidebarBackgroundColor": "#282a36",
+  "sidebarTextColor": "#f8f8f2",
+  "sidebarHighlightColor": "#44475a"
+}
